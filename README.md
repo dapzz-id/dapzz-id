@@ -1,5 +1,5 @@
 Hi, I’m Kadavi Raditya Alvino, usually called Davi👋. 
-I'm still a student. 
+I'm still a student. I'm Student at SMK Telekomunikasi Telesandi Bekasi.
 I'm 17 years old now. 
 I'm an Indonesian. 
 I only master the web and maybe a little mastery of the mobile platform too. 
