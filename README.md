@@ -1,11 +1,9 @@
-# <p align="center"> About Me </p>
+# <p align="center" style="display: flex; flex: flex-row;"> About Me ![Profile views](https://komarev.com/ghpvc/?username=dapzz-id&style=flat-square)</p>
 <p align="center"> 
   Let me introduce myself, my name is <b>Kadavi Raditya Alvino</b>.
   </br>
   Who aspire to become Software Engineer and Fullstack Developers
 </p>
-
-![Profile views](https://komarev.com/ghpvc/?username=dapzz-id&style=flat-square)
 
 
 - 🌱 I’m currently learning **Golang, MongoDB**
