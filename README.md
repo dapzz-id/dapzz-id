@@ -8,9 +8,10 @@
 </br>
 
 
-- :school: Now, I study at **TELESANDI BEKASI TELECOMMUNICATION VOCATIONAL SCHOOL**
-- 💬 Ask me about **laravel**
-- 📫 How to reach me **ks.developer.id@gmail.com**
+- :school: Now, I study at **SMK TELEKOMUNIKASI TELESANDI BEKASI**
+- :desktop_computer: I have a hobby of coding, I think it's fun
+- :video_game: I also like play a game
+- 📫 You can contact me **admin@dev-id.site**
 
 ## Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/your-linkedin)
