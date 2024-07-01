@@ -8,7 +8,7 @@
 </br>
 
 
-- 
+- :school: Now, I study at **TELESANDI BEKASI TELECOMMUNICATION VOCATIONAL SCHOOL**
 - 💬 Ask me about **laravel**
 - 📫 How to reach me **ks.developer.id@gmail.com**
 
