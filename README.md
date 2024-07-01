@@ -13,7 +13,7 @@
 - :video_game: I also like play a game
 - 📫 You can contact me **admin@dev-id.site**
 
-## Connect with me:
+## My Role:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/your-linkedin)
 [<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/your-discord)
 
