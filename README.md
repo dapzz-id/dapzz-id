@@ -1,6 +1,7 @@
 # <p align="center">ABOUT ME</p>
 <p align="center">
   Let me introduce myself, my name is <b>Kadavi Raditya Alvino</b>.
+  <br/>
   I like the <b>Fullstack Developer</b> thing more than UI/UX Designer.
 </p>
 
