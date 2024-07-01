@@ -15,9 +15,7 @@
 <br/>
 
 ## My Role:
-<div style="width: 100dvw; color: #FFFFFF; display: flex; flex: flex-row;">
-  [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg)](https://instagram.com/x.dapzz)
-</div>
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg)](https://instagram.com/x.dapzz)
 <br/>
 
 ## Languages and Tools:
