@@ -1,11 +1,16 @@
+<script>
+  let name = "**Kadavi Raditya Alvino**";
+</script>
+
 # <p align="center"> About Me </p>
 <p align="center">
-  Let me introduce myself, my name is **Kadavi Raditya Alvino**
+  Let me introduce myself, my name is `${name}`
   <br/>
   Who aspire to become Software Engineer and Fullstack Developers
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=dapzz-id&style=flat-square)
+
 
 - 🌱 I’m currently learning **Golang, MongoDB**
 - 💬 Ask me about **laravel**
