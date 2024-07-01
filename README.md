@@ -16,8 +16,8 @@
 
 ## My Role:
 <div style="width: 100dvw; background-color: #FFFFFF; display: flex; flex: flex-row;">
-  [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg" />](https://instagram.com/x.dapzz)
-  [<img align="left" alt="Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/tiktok.svg" />](https://tiktok.com/@x.nonamee)
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg" />(https://instagram.com/x.dapzz)
+  <img align="left" alt="Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/tiktok.svg" pnClick="window.location.href = 'https://tiktok.com/@xnoname.com'" />
 </div>
 <br/>
 
