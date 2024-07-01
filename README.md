@@ -33,5 +33,5 @@
 
 <div style="display: flex; flex-direction: row; justify-content: center; justify-items: center; align-items: center;">
   <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dapzz-id&show_icons=true&locale=en" alt="dapzz-id" /></p>
-  <img align="right" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapzz-id&layout=compact&theme=tokyonight&langs_count=8" style="max-width: 100%;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapzz-id&layout=compact&theme=tokyonight&langs_count=8" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapzz-id&layout=compact&theme=tokyonight&langs_count=8" style="max-width: 100%;">
 </div>
