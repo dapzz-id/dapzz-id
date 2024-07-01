@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-<div>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dapzz-id&show_icons=true&locale=en" alt="dapzz-id" /></p>
   <img align="right" src="https://camo.githubusercontent.com/9a155152685f85da8408aadc1fec4dc79f90c96f09b3bd9b5a8670c0d1f50ec7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76696e73732d64726f6964266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapzz-id&layout=compact&theme=tokyonight&langs_count=8" style="max-width: 100%;">
 </div>
