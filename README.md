@@ -1,11 +1,14 @@
 # <p align="center">ABOUT ME</p>
 <h3 align="center">Let me introduce myself, my name is <b>Kadavi Raditya Alvino</b>.</h3>
+<h3 align="center">I like the <b>Fullstack Developer</b> thing more than UI/UX Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapzz-id&label=Profile%20views&color=0e75b6&style=flat" alt="dapzz-id" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Laravel, ReactJS**
+- 🏫 Now I study at **SMK Telekomunikasi Telesandi Bekasi**
+
+- 💬 Ask me about **HTML, CSS, JS, PHP, ReactJS, Laravel**
 
 - 📫 How to reach me **mail@dapzz.my.id**
 
