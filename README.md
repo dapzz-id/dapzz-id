@@ -12,10 +12,11 @@
 - :desktop_computer: I have a hobby of coding, I think it's fun
 - :video_game: I also like play a game
 - 📫 You can contact me **admin@dev-id.site**
+<br/>
 
 ## My Role:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/your-linkedin)
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/your-discord)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg" />](https://instagram.com/x.dapzz)
+[<img align="left" alt="Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/tiktok.svg" />](https://tiktok.com/@x.nonamee)
 
 ## Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
