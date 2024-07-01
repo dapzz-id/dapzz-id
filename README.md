@@ -1,6 +1,6 @@
 # <p align="center">ABOUT ME</p>
 <p align="center">Let me introduce myself, my name is <b>Kadavi Raditya Alvino</b>.</p>
-<p align="center">I like the <b>Fullstack Developer</b> thing more than UI/UX Designer.</p>
+<p align="center" style="margin-top: 0;">I like the <b>Fullstack Developer</b> thing more than UI/UX Designer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapzz-id&label=Profile%20views&color=0e75b6&style=flat" alt="dapzz-id" /> </p>
 
