@@ -15,9 +15,8 @@
 <br/>
 
 ## My Role:
-<p style="background-color: #FFFFFF;">Konten Anda di sini</p>
 <a href="https://instagram.com/x.dapzz">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg" alt="Instagram" width="26px" height="26px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg?color=white" alt="Instagram" width="26px" height="26px">
 </a>
 <br/>
 
