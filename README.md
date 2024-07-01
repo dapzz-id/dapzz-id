@@ -4,9 +4,11 @@
   </br>
   Who aspire to become Software Engineer and Fullstack Developers
 </p>
+</br>
+</br>
 
 
-- 🌱 I’m currently learning **Golang, MongoDB**
+- 
 - 💬 Ask me about **laravel**
 - 📫 How to reach me **ks.developer.id@gmail.com**
 
