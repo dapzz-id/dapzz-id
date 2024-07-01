@@ -1,8 +1,9 @@
 # <p align="center"> About Me </p>
-<span style="display: flex; justify-items: center; align-items: center;"> Let me introduce myself, my name is **Kadavi Raditya Alvino**.
-</br>
-Who aspire to become Software Engineer and Fullstack Developers
-</span>
+<p align="center"> 
+  Let me introduce myself, my name is <b>Kadavi Raditya Alvino</b>.
+  </br>
+  Who aspire to become Software Engineer and Fullstack Developers
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=dapzz-id&style=flat-square)
 
