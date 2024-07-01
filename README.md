@@ -1,5 +1,5 @@
 # <p align="center"> About Me </p>
-<span align="center"> Let me introduce myself, my name is **Kadavi Raditya Alvino**.
+<span style="display: flex; justify-items: center; align-items: center;"> Let me introduce myself, my name is **Kadavi Raditya Alvino**.
 </br>
 Who aspire to become Software Engineer and Fullstack Developers
 </span>
