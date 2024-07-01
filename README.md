@@ -15,7 +15,9 @@
 <br/>
 
 ## My Role:
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg)](https://instagram.com/x.dapzz)
+<a href="https://instagram.com/x.dapzz">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/instagram.svg" alt="Instagram" width="26px" height="26px">
+</a>
 <br/>
 
 ## Languages and Tools:
