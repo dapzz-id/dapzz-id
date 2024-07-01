@@ -21,6 +21,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ditzzyaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ditzzyaa" /></a></p>
 <br/>
-<div style="margin-bottom: 30px;"></div>
+<br/>
+<br/>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dapzz-id&show_icons=true&locale=en" alt="dapzz-id" /></p>
