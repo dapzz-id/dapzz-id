@@ -30,7 +30,4 @@
 <br/>
 <br/>
 <br/>
-
-<div style="display: flex; flex-direction: row; justify-content: center; justify-items: center; align-items: center;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapzz-id&layout=compact&theme=tokyonight&langs_count=8" style="max-width: 100%;">
-</div>
