@@ -11,9 +11,9 @@
 
 - 🏫 Now I study at **SMK Telekomunikasi Telesandi Bekasi**
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, ReactJS, Laravel**
+- 💬 Ask me about **PHP, Codeigniter, Laravel**
 
-- 📫 How to reach me **mail@dapzz.my.id**
+- 📫 How to reach me **kadaviradityaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
