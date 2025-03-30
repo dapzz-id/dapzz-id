@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapzz-id&label=Profile%20views&color=0e75b6&style=flat" alt="dapzz-id" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React TS & Python**
 
 - 🏫 Now I study at **SMK Telekomunikasi Telesandi Bekasi**
 
