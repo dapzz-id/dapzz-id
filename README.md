@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kadavi Raditya Alvino</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapzz-id&label=Profile%20views&color=0e75b6&style=flat" alt="dapzz-id" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dapzz-id&theme=" alt="dapzz-id" /></a> </p>
 
 - 🌱 I 'm currently deepening my knowledge **React for Laravel**
 - 💬 Ask me about **Laravel**
