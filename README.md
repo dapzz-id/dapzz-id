@@ -7,8 +7,8 @@
 - 💬 Ask me about **Laravel**
 - 📫 How to reach me **kadaviradityaa@gmail.com**
 - 👨‍💻 All of my projects are available at **https://dapzz.my.id**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1kJ4joL5GijsJZP5fm-ZuzL7zL8BWCmJt/view?usp=sharing**
-- ⚡ Fun fact **Working hard at a young age is more attractive than working hard at an old age.**
+- 📄 Know about my experiences : **https://drive.google.com/file/d/1kJ4joL5GijsJZP5fm-ZuzL7zL8BWCmJt/view?usp=sharing**
+- ⚡ Fun fact : **Working hard at a young age is more attractive than working hard at an old age.**
 
 <div> <a href="https://www.linkedin.com/in/ditzzyaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/dapzz-id" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
