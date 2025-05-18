@@ -55,7 +55,7 @@
 <p><a href="https://www.buymeacoffee.com/ditzzyaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ditzzyaa" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<div align="center" style="width: 100%; display: flex; flex-direction: flex-row; justify-content: center;">
+<div align="center">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapzz-id&layout=compact&theme=javascript-dark" alt=dapzz-id />
 
   <p>
