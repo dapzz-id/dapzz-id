@@ -6,7 +6,6 @@
 - 💬 Ask me about **Laravel**
 - 📫 How to reach me **kadaviradityaa@gmail.com**
 - 👨‍💻 All of my projects are available at **https://alvinzz.my.id**
-- 📄 Know about my experiences **https://bit.ly/3SIyK9Y**
 - ⚡ Fun fact **Working hard at a young age is more attractive than working hard at an old age**
 
 <div> <a href="https://www.linkedin.com/in/ditzzyaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
